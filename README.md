@@ -7,4 +7,4 @@ This is a project to understand the dynamics of new company creation in the Para
 ## Instructions
 
 To download the data of new companies in PR state, run the script state_data_script.py, as of 27 March 2023 there are 9 'Empresas.zip' and 9 'Estabelecimentos.zip' files, over the years it might be necessary to update the number of files.
-The total size of all .zip is over 2Gb, consider it when downloading the data (it might take a while). For manual download or information see https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-jurdica---cnpj available only in portuguese. For more information about the datasets, see https://www.gov.br/receitafederal/dados/cnpj-metadados.pdf or in the link above (in Portuguese).
+The total size of all .zip is over 2Gb, consider it when downloading the data (it might take a while). For manual download or information see https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-jurdica---cnpj available only in portuguese. For more information about the datasets, see https://www.gov.br/receitafederal/dados/cnpj-metadados.pdf or the link above (in Portuguese).
